@@ -304,7 +304,7 @@ SettingsList.Item = React.createClass({
     /**
      * Right side information on the setting item
      */
-    titleInfo: React.PropTypes.string,
+    // titleInfo: React.PropTypes.string,
     titleInfoStyle: Text.propTypes.style,
     /**
      * If 'Bottom', info is placed beneath the title
